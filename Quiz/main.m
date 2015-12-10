@@ -8,7 +8,11 @@
 
 #import <UIKit/UIKit.h>
 #import "AppDelegate.h"
+//<<<<<<< HEAD
 //git test  modify by develop
+//=======
+///git test xiaowang branch
+//>>>>>>> xiaowang
 int main(int argc, char * argv[]) {
     @autoreleasepool {
         return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
